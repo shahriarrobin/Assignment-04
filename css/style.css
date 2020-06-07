@@ -1,0 +1,26 @@
+h2 {
+	border: 5px green dotted;
+}
+ .head1{
+ 	color:red;
+ }
+ #title{
+ 	background-color:blue;
+
+ }
+ .border{
+ 	 border:5px red solid;
+ }
+
+ .head2{
+ 	font-size:60px;
+ }
+
+ div{
+ 	min-height:50px;
+ 	background-color:#B40431;
+
+ }
+.table{
+	background-color: red
+}
